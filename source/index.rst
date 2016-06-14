@@ -35,6 +35,7 @@ Information about development is also available:
 
 .. toctree::
    :maxdepth: 2
+   :glob:
    :caption: Design Documentation
 
 	design/*
@@ -43,7 +44,8 @@ Information about development is also available:
 .. _dev-docs:
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Developer Documentation
+  :maxdepth: 2
+  :glob:
+  :caption: Developer Documentation
 
 	development/*
