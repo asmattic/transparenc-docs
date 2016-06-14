@@ -15,10 +15,10 @@ Information about development is also available:
 .. _user-docs:
 
 .. toctree::
-  :maxdepth: 2
-  :caption: User Documentation
+   :maxdepth: 2
+   :caption: User Documentation
   
-	users/*
+	 users/*
 
 
 .. _feature-docs:
@@ -38,14 +38,14 @@ Information about development is also available:
    :glob:
    :caption: Design Documentation
 
-	design/*
+	 design/*
 
 
 .. _dev-docs:
 
 .. toctree::
-  :maxdepth: 2
-  :glob:
-  :caption: Developer Documentation
+   :maxdepth: 2
+   :glob:
+   :caption: Developer Documentation
 
-	development/*
+	 development/dev
