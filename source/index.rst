@@ -18,7 +18,7 @@ Information about development is also available:
   :maxdepth: 2
   :caption: User Documentation
   
-	users/index
+	users/*
 
 
 .. _feature-docs:
@@ -37,7 +37,7 @@ Information about development is also available:
    :maxdepth: 2
    :caption: Design Documentation
 
-	design/index
+	design/*
 
 
 .. _dev-docs:
@@ -46,4 +46,4 @@ Information about development is also available:
    :maxdepth: 2
    :caption: Developer Documentation
 
-	development/index
+	development/*
