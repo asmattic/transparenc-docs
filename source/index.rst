@@ -16,6 +16,7 @@ Information about development is also available:
 
 .. toctree::
    :maxdepth: 2
+   :name: user-docs
    :caption: User Documentation
   
 	 users/index
