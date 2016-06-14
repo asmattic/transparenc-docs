@@ -47,7 +47,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'transparenC-docs'
+project = u'transparenC Docs'
 copyright = u'2016, Matt Oldfield'
 author = u'Matt Oldfield'
 
