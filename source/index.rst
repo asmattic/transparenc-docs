@@ -17,14 +17,13 @@ Information about development is also available:
 .. toctree::
    :maxdepth: 2
    :caption: User Documentation
-  
+
 	users
 
 .. _design-docs:
 
 .. toctree::
    :maxdepth: 2
-   :glob:
    :caption: Design Documentation
 
 	design
