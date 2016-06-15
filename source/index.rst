@@ -17,7 +17,7 @@ Information about development is also available:
    :maxdepth: 2
    :caption: User Documentation
 
-	user
+   user
 
 .. _dev-docs:
 
