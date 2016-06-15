@@ -1,15 +1,9 @@
-User Documentation
+User
 ==================
 
-Some info about the Users.
+Some info about Features.
 
-User Info 1
----------------
+Setup
+-----
 
-Color 1
-Color 2
-
-Fonts
-------
-
-next 
+And some more info.
