@@ -1,4 +1,4 @@
-Users
+User Documentation
 ==================
 
 Some info about the Users.
