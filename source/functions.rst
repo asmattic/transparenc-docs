@@ -8,6 +8,34 @@ Campaigns
 
 ``addCampaigns``
 
+* Appends all campaigns to the menu and sets up their id based on the name of the campaign by replacing spaces with a dash and converting any capitol letters to lower case using ``toLower``
+
+``getCampaignMeta``
+
+* Returns all campaign metadata ...
+
+``getCurrentCampaign``
+
+``getGoalIds``
+
+``getCampaignTypes``
+
+``accountForMargin``
+
+* gets the client specific margin and incoorporates that and cost values
+
+``prepareCampaigns``
+
+* Format and filter out unnessescary data
+
+``renderGraph``
+
+* Grabs the query and prints to the graph the data returned
+
+``renderCampaignGraphs``
+
+* Gets all of the campaign types including a list of already pre-conficured campaign types like then ``rendersGraph
+
 Views
 ~~~~~
 
