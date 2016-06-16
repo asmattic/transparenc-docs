@@ -8,8 +8,8 @@ The main documentation for the site is organized into a couple sections:
 
 Information about development is also available:
 
-* :ref:`dev-docs`
 * :ref:`design-docs`
+* :ref:`dev-docs`
 
 .. _user-docs:
 
@@ -18,16 +18,6 @@ Information about development is also available:
    :caption: User Documentation
 
    user
-
-.. _dev-docs:
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Developer Documentation
-
-   developer
-   documentation
-   functions
 
 .. _feature-docs:
 
@@ -44,3 +34,13 @@ Information about development is also available:
    :caption: Design Documentation
 
    design
+
+.. _dev-docs:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Developer Documentation
+
+   developer
+   documentation
+   functions
