@@ -6,7 +6,7 @@ Welcome to the transparenC Documentation
 Purpose
 -------
 
-.. _Read the docs: 
+To educate about the use and building of transparenC.
 
 .. |build-status| image:: https://img.shields.io/travis/rtfd/readthedocs.org.svg?style=flat
     :alt: build status
