@@ -26,6 +26,7 @@ Information about development is also available:
    :caption: Developer Documentation
 
    developer
+   documentation
    functions
 
 .. _feature-docs:
