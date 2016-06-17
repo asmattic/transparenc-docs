@@ -1,7 +1,10 @@
 Function Reference
 ==================
 
-General function specifications for transparenC.
+.. Variables
+.. include:: vars.rst
+
+General function specifications for |AppName| at |AppUrl|.
 
 Campaigns
 ---------

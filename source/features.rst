@@ -1,6 +1,9 @@
 Features
 ==================
 
+.. Variables
+.. include:: vars.rst
+
 Some info about Features.
 
 Campaign Setup

@@ -1,7 +1,10 @@
 Documentation
 ==================
 
-General development specifications for transparenC.
+.. Variables
+.. include:: vars.rst
+
+General development specifications for |AppName|.
 
 Writing This Documentation
 --------------------------
