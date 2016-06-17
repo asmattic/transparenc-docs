@@ -11,5 +11,7 @@ This documentation is maintained in this Github repository `<https://github.com/
 The `Read the Docs Account <https://readthedocs.org/dashboard/>`_ automatically updates and rebuilds the documentation upon pushing new commits to the Github repository attached to the account. The documentation is built in responsive html, PDF and Epub formats and is available for download in any of the versions that are created over time in multiple languages.
 
 * `Git Branch Control`_
+* `reStructuredText Substitutions`_
 
 .. _Git Branch Control: https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches
+.. _reStructuredText Substitutions: http://www.sphinx-doc.org/en/stable/markup/inline.html#default-substitutions

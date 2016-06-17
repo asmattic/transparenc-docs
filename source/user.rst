@@ -1,7 +1,9 @@
 User
 ==================
 
-Some info about Features.
+.. include:: vars.rst
+
+Some info about Features |AppName|.
 
 Setup
 -----
