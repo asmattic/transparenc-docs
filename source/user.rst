@@ -3,7 +3,7 @@ User
 
 .. include:: vars.rst
 
-Some info about Features |AppName|.
+Some info about Features of |AppName|.
 
 Setup
 -----

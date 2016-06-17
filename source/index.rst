@@ -1,5 +1,8 @@
-Welcome to transparenC's documentation!
+Welcome to |AppName|'s documentation!
 =====================================
+
+.. Variables
+.. include:: vars.rst
 
 The main documentation for the site is organized into a couple sections:
 
