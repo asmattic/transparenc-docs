@@ -4,7 +4,7 @@ Function Reference
 .. Variables
 .. include:: vars.rst
 
-General function specifications for |AppName|.
+General function specifications for |AppName|_.
 
 Campaigns
 ---------
