@@ -1,2 +1,2 @@
 .. |AppName| replace:: transparenC
-.. |AppUrl| replace:: `<http://analytics.mckayadvertising.com>`_
+.. _AppName: http://analytics.mckayadvertising.com
