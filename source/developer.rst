@@ -4,7 +4,7 @@ Developer
 .. Variables
 .. include:: vars.rst
 
-General development specifications for |AppName|.
+General development specifications for |AppName|_ and the |TestAppName|_.
 
 Developing the Codebase
 -----------------------
