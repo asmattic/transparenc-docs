@@ -12,4 +12,4 @@ Upon logging into |AppName|_ you should see at least a single campaign if not mo
 
 |CampaignDash|
 
-.. |CampaignDash| image:: /images/campaign_dashboard.jpg
+.. |CampaignDash| image:: ./images/campaign_dashboard.jpg
