@@ -31,7 +31,7 @@ Common database migration queries.
 	Make sure to check if the table prefixes are correct.
 
 
-::
+.. code-block:: sql
 	
 	UPDATE maa_posts SET post_content = REPLACE(post_content, 'analytics.mckayadvertising.com', 'app.mckayadvertising.com');
 
