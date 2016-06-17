@@ -9,6 +9,11 @@ General function specifications for |AppName|_.
 Campaigns
 ---------
 
+Currently implemented to handle just adwords campaign data.
+
+Campaigns
+~~~~~~~~~
+
 ``addCampaigns``
 
 * Appends all campaigns to the menu and sets up their id based on the name of the campaign by replacing spaces with a dash and converting any capitol letters to lower case using ``toLower``
@@ -52,3 +57,4 @@ Page Setup
 * Grabs goad ids of specific capampaign page
 * Prints the graph templates using ``getGraph`` 
 * Updates all of the graphs are updated with ``updateAllEmbedGraphs``
+
