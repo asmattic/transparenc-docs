@@ -14,4 +14,4 @@ Upon logging into |AppName|_ you should see at least a single campaign if not mo
 
 After this you can play around with the date range of any individual campaign.
 
-..image:: /images/date.jpg
+.. image:: /images/date.jpg

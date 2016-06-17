@@ -33,7 +33,14 @@ Primary
 For use with ``h1``
 
 * `Oswald`_
-* `Roboto`_
 
 .. _Oswald: https://fonts.google.com/specimen/Oswald?query=oswald&selection.family=Oswald
+
+Secondary
+~~~~~~~~~
+
+For use with ``p`` etc.
+* `Roboto`_
+
+
 .. _Roboto: https://fonts.google.com/?selection.family=Oswald&query=roboto
