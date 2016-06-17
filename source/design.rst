@@ -9,19 +9,19 @@ Some info about the design.
 Color Palette
 ---------------
 
-dark purple:		#292C44		rgb(41,44,68)
+dark purple:		``#292C44``		``rgb(41,44,68)``
 
-red:						#FF5349		rgb(255,83,73)
+red:						``#FF5349``		``rgb(255,83,73)``
 
-whitish:				#F0F0F1 	rgb(240,240,241)
+whitish:				``#F0F0F1`` 	``rgb(240,240,241)``
 
-teal:						#18CDCA		rgb(24,205,202)
+teal:						``#18CDCA``		``rgb(24,205,202)``
 
-light purple:   #4F80E1   rgb(79,128,225)
+light purple:   ``#4F80E1``   ``rgb(79,128,225)``
 
-darker grey:   #2a2a2b		rgb(42, 42, 43)
+darker grey:   ``#2a2a2b``		``rgb(42, 42, 43)``
 
-lighter grey:	 #3e3e40		rgb(62, 62, 64)
+lighter grey:	 ``#3e3e40``		``rgb(62, 62, 64)``
 
 
 Fonts
@@ -30,7 +30,7 @@ Fonts
 Primary
 ~~~~~~~
 
-For use with `h1`
+For use with ``h1``
 
 * `Oswald`_
 * `Roboto`_

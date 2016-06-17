@@ -19,3 +19,18 @@ Testing and developing post release versions are done on different branches are 
 
 .. _PEP 440: https://www.python.org/dev/peps/pep-0440/
 
+Managing Versions
+-----------------
+
+Database Transfer
+~~~~~~~~~~~~~~~~~~
+
+::
+	
+	UPDATE maa_posts SET post_content = REPLACE(post_content, 'analytics.mckayadvertising.com', 'app.mckayadvertising.com');
+
+	UPDATE maa_posts SET guid = REPLACE(guid, 'analytics.mckayadvertising.com', 'app.mckayadvertising.com');
+
+	UPDATE maa_posts SET post_excerpt = REPLACE(post_excerpt, 'analytics.mckayadvertising.com', 'app.mckayadvertising.com');
+
+	UPDATE maa_options SET option_value = REPLACE(option_value, 'analytics.mckayadvertising.com', 'app.mckayadvertising.com');
