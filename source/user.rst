@@ -5,7 +5,11 @@ User
 
 Some info about Features of |AppName|.
 
-Setup
------
+Getting Started
+---------------
 
-And some more info.
+Upon logging into |AppName|_ you should see at least a single campaign if not more on the left hand sidebar.
+
+|CampaignDash|
+
+.. |CampaignDash| image:: /images/campaign_dashboard.jpg

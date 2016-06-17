@@ -25,6 +25,12 @@ Managing Versions
 Database Transfer
 ~~~~~~~~~~~~~~~~~~
 
+Common database migration queries.
+
+.. note::
+	Make sure to check if the table prefixes are correct.
+
+
 ::
 	
 	UPDATE maa_posts SET post_content = REPLACE(post_content, 'analytics.mckayadvertising.com', 'app.mckayadvertising.com');
