@@ -40,3 +40,4 @@ Common database migration queries.
 	UPDATE maa_posts SET post_excerpt = REPLACE(post_excerpt, 'analytics.mckayadvertising.com', 'app.mckayadvertising.com');
 
 	UPDATE maa_options SET option_value = REPLACE(option_value, 'analytics.mckayadvertising.com', 'app.mckayadvertising.com');
+

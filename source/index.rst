@@ -11,6 +11,7 @@ The main documentation for the site is organized into a couple sections:
 
 Information about development is also available:
 
+* :ref:`setup-docs`
 * :ref:`design-docs`
 * :ref:`dev-docs`
 
@@ -29,6 +30,16 @@ Information about development is also available:
    :caption: Feature Documentation
 
    features
+
+.. _setup-docs:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Setup Documentation
+
+   setup
+   setup-employee
+   setup-client
 
 .. _design-docs:
 

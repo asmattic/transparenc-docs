@@ -9,7 +9,7 @@ General function specifications for |AppName|_.
 Campaigns
 ---------
 
-Currently implemented to handle just adwords campaign data.
+Currently implemented to handle just adwords campaign data. To see future features, `check the project on Basecamp <https://basecamp.com/2947829/projects/12128091>`_ .
 
 Campaigns
 ~~~~~~~~~
