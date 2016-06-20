@@ -19,15 +19,16 @@ Information about development is also available:
 
 .. toctree::
    :maxdepth: 2
-   :caption: User Documentation
+   :caption: User
 
    user
+   user-faq
 
 .. _feature-docs:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Feature Documentation
+   :caption: Features
 
    features
 
@@ -35,9 +36,8 @@ Information about development is also available:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Setup Documentation
+   :caption: Setup
 
-   setup
    setup-employee
    setup-client
 
@@ -45,7 +45,7 @@ Information about development is also available:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Design Documentation
+   :caption: Design
 
    design
 
@@ -53,8 +53,8 @@ Information about development is also available:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Developer Documentation
+   :caption: Developer
 
-   developer
-   documentation
-   functions
+   dev
+   dev-docs
+   dev-functions

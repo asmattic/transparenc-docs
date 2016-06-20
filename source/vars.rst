@@ -7,13 +7,22 @@
 .. _TestAppName: http://app.mckayadvertising.com
 
 .. The current build status
-.. |buildStatus| image:: https://img.shields.io/travis/rtfd/readthedocs.org.svg?style=flat
+.. |BuildStatus| image:: https://img.shields.io/travis/rtfd/readthedocs.org.svg?style=flat
   :alt: build status
 	:scale: 100%
   :target: https://travis-ci.org/rtfd/readthedocs.org
 
 .. The current version of the documentation
-.. |docVersion| image:: https://readthedocs.org/projects/docs/badge/?version=latest
+.. |DocVersion| image:: https://readthedocs.org/projects/docs/badge/?version=latest
   :alt: Documentation Status
   :scale: 100%
   :target: https://docs.readthedocs.io/en/latest/?badge=latest
+
+.. The current version of the documentation
+.. |AppVersion| image:: https://readthedocs.org/projects/docs/badge/?version=latest
+  :alt: App Status
+  :scale: 100%
+  :target: https://docs.readthedocs.io/en/latest/?badge=0.9.1
+
+.. Google
+.. |GA| replace:: Google Analytics

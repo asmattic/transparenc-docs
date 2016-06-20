@@ -4,7 +4,7 @@ Documentation
 .. Variables
 .. include:: vars.rst
 
-|buildStatus| - |docVersion|
+|BuildStatus| - |DocVersion| - |AppVersion|
 
 General development specifications for |AppName|.
 
