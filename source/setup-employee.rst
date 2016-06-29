@@ -1,4 +1,4 @@
-Client Setup
+Employee Setup
 ==================
 
 .. Variables
@@ -9,4 +9,4 @@ McKay A+A employee setup for |AppName|.
 Google Analytics
 ------------------
 
-Add the Google API user email to the |GA|
+See :ref:`setup-client`
