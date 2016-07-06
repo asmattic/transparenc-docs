@@ -26,3 +26,6 @@
 
 .. Google
 .. |GA| replace:: Google Analytics
+
+.. Database Prefix
+.. |dbPrefix| replace:: maa

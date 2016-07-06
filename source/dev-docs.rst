@@ -20,3 +20,8 @@ The `Read the Docs Account <https://readthedocs.org/dashboard/>`_ automatically 
 
 .. _Git Branch Control: https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches
 .. _reStructuredText Substitutions: http://www.sphinx-doc.org/en/stable/markup/inline.html#default-substitutions
+
+Updating User Role Capabilities
+-------------------------------
+
+In the ``|dbPrefix|_options`` table, edit the ``|dbPrefix|_user_roles`` by removing the role in question. Then deactivate and activate the |AppName| plugin.
