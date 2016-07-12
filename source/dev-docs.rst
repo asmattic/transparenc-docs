@@ -21,7 +21,32 @@ The `Read the Docs Account <https://readthedocs.org/dashboard/>`_ automatically 
 .. _Git Branch Control: https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches
 .. _reStructuredText Substitutions: http://www.sphinx-doc.org/en/stable/markup/inline.html#default-substitutions
 
+Some Useful Git Commands
+-------------------------
+
+The most common commands are
+
+.. code-block:: bash
+
+	$ git add --all
+
+	$ git add .
+
+	$ git commit -m "Your message"
+
+	$ git push origin [your-branch]
+
+	$ git push origin master
+
+When you need to combine changes made somewhere else with your current branch.
+
+``$ git pull origin other-branch``
+
+Git is basically doing this
+
+``$ git fetch origin other-branch && git merge other-branch``
+
 Updating User Role Capabilities
 -------------------------------
 
-In the ``|dbPrefix|_options`` table, edit the ``|dbPrefix|_user_roles`` by removing the role in question. Then deactivate and activate the |AppName| plugin.
+In the ``wp_options`` table, edit the ``wp_user_roles`` by removing the role in question. Then deactivate and activate the |AppName| plugin.
