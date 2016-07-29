@@ -57,4 +57,5 @@ Information about development is also available:
 
    dev
    dev-docs
+   dev-libs
    dev-functions

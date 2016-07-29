@@ -34,9 +34,14 @@ The most common commands are
 
 	$ git commit -m "Your message"
 
+	// Commit to branch
 	$ git push origin [your-branch]
 
+	// Don't do this unless ready to merge
 	$ git push origin master
+
+	// Creating a new branch and switching into it
+	$ git checkout -b [new-branch]
 
 When you need to combine changes made somewhere else with your current branch.
 
