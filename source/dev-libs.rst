@@ -11,7 +11,7 @@ Included libraries, frameworks and tooling used in |AppName|.
 Tooling
 -------
 
-`nodejs`
+`Nodejs`_
 
 To run `npm`_ and other tools below.
 
@@ -21,12 +21,14 @@ To run `npm`_ and other tools below.
 
 Node Package Manager.
 
-.. _npm: https://www.npmjs.com/
+.. _npm: https://www.npmjs.com
 
-`webpack`
+`webpack`_
 
 Module bundler that replaced `requirejs` and combines files to reduce
 http requests.
+
+.. _webpack: https://webpack.github.io/
 
 `Sass`_
 

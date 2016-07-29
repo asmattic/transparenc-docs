@@ -19,10 +19,7 @@
   :target: https://docs.readthedocs.io/en/latest/?badge=latest
 
 .. The current version of the documentation
-.. |AppVersion| image:: https://readthedocs.org/projects/docs/badge/?version=latest
-  :alt: App Status
-  :scale: 100%
-  :target: https://docs.readthedocs.io/en/latest/?badge=0.9.1
+.. |AppVersion| replace:: `0.9.0`
 
 .. Google
 .. |GA| replace:: Google Analytics
